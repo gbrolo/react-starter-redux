@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gbrolo/react-starter.git"
+    "url": "git+https://github.com/gbrolo/react-starter-redux.git"
   },
   "author": "gbrolo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gbrolo/react-starter/issues"
+    "url": "https://github.com/gbrolo/react-starter-redux/issues"
   },
-  "homepage": "https://github.com/gbrolo/react-starter#readme",
+  "homepage": "https://github.com/gbrolo/react-starter-redux#readme",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
