@@ -1,5 +1,4 @@
 # React-starter-redux
-![react-starter-redux][assets/img/react-logo.png]
 A React boilerplate built with React 16, Redux and with Firebase integration.
 
 ## Installation
