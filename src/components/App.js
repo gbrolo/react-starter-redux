@@ -16,7 +16,7 @@
         return (
             <Switch>
                 <Route exact path="/" component={Main} />
-                <Route path="/info" component={GetStarted} />
+                <Route path="/demo" component={GetStarted} />
                 <Route component={NotFound} />
             </Switch>
         );

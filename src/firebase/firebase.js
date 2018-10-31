@@ -7,8 +7,7 @@ const config = {
     databaseURL: "https://react-starter-redux.firebaseio.com",
     projectId: "react-starter-redux",
     storageBucket: "",
-    messagingSenderId: "698001840748",
-    storageBucket: "gs://react-starter-redux.appspot.com"
+    messagingSenderId: "698001840748"
 };
 
 firebase.initializeApp(config);

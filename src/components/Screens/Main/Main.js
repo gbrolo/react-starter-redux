@@ -15,11 +15,11 @@ class Main extends Component {
     render() {
         if (this.state.getStarted) {
             return (
-                <Redirect to='/info' push />
+                <Redirect to='/demo' push />
             );
         } else {
             return (
-                <div className="wrapper">
+                <div className="wrapper roboto-font">
                     <Row className="global-logo">
                         <Col xs={12} sm={12} md={4} lg={4}>
                             <img width="100" height="100" src={'../../../assets/img/react-logo.png'} />
